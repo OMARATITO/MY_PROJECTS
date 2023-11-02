@@ -1,2 +1,2 @@
 # choose-your-own-adventure
-this is my own adventure project
+this is some of my projects
